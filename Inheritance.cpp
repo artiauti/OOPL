@@ -1,4 +1,4 @@
-/*Name:Auti Arti ,OOP Assignment 5 */
+/*Name:Auti Arti ,OOP Assignment 4,Inheritance*/
 #include<iostream>
 #include<cstring>
 using namespace std;
